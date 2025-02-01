@@ -8,9 +8,9 @@
 - Hosting (DigitalOcean)
 - Config Format (yaml)
 
-# TODO: Create a basic Rust project
+# DONE: Create a basic Rust project
 
-# TODO: Create a toy backend
+# DONE: Create a toy backend
 
 # TODO: Create a toy frontend
 
