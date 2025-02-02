@@ -12,7 +12,7 @@
 
 # DONE: Create a toy backend
 
-# TODO: Create a toy frontend
+# DONE: Create a toy frontend
 
 # TODO: Create a toy database and decide on schemas
 
